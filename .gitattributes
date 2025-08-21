@@ -1,0 +1,2 @@
+# Treat .r files as R Language files instead of Rebol files
+*.r linguist-language=R
